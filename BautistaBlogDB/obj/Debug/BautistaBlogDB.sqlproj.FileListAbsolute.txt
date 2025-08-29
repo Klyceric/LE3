@@ -1,0 +1,10 @@
+C:\Users\corvi\source\repos\BautistaLE2\BautistaBlogDB\bin\Debug\BautistaBlogDB.dacpac
+C:\Users\corvi\source\repos\BautistaLE2\BautistaBlogDB\bin\Debug\BautistaBlogDB.dll
+C:\Users\corvi\source\repos\BautistaLE2\BautistaBlogDB\bin\Debug\BautistaBlogDB.pdb
+C:\Users\corvi\source\repos\BautistaLE2\BautistaBlogDB\obj\Debug\BautistaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\corvi\source\repos\BautistaLE2\BautistaBlogDB\obj\Debug\BautistaBlogDB.dll
+C:\Users\corvi\source\repos\BautistaLE2\BautistaBlogDB\obj\Debug\BautistaBlogDB.pdb
+C:\Users\corvi\source\repos\BautistaLE2\BautistaBlogDB\obj\Debug\Model.xml
+C:\Users\corvi\source\repos\BautistaLE2\BautistaBlogDB\obj\Debug\refactor.xml
+C:\Users\corvi\source\repos\BautistaLE2\BautistaBlogDB\obj\Debug\postdeploy.sql
+C:\Users\corvi\source\repos\BautistaLE2\BautistaBlogDB\obj\Debug\predeploy.sql

@@ -1,0 +1,15 @@
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\bin\Debug\net6.0\BlogTestUI.exe
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\bin\Debug\net6.0\BlogTestUI.deps.json
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\bin\Debug\net6.0\BlogTestUI.runtimeconfig.json
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\bin\Debug\net6.0\BlogTestUI.dll
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\bin\Debug\net6.0\BlogTestUI.pdb
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.AssemblyInfoInputs.cache
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.AssemblyInfo.cs
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.csproj.CoreCompileInputs.cache
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.sourcelink.json
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.dll
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\obj\Debug\net6.0\refint\BlogTestUI.dll
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.pdb
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.genruntimeconfig.cache
+C:\Users\corvi\source\repos\BautistaLE2\BlogTestUI\obj\Debug\net6.0\ref\BlogTestUI.dll
