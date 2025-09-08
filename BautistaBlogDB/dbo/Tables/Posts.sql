@@ -6,4 +6,5 @@
 	[Body] TEXT NOT NULL, 
 	[DateCreated] DATETIME2 NOT NULL,
 	CONSTRAINT [FK_Posts_Users] FOREIGN KEY (UserId) REFERENCES Users(Id)
+
 )

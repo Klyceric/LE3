@@ -25,14 +25,15 @@ namespace BlogDataLibrary.Database
             CommandType commandType = CommandType.Text;
             string connectionString = _config.GetConnectionString(connectionStringName);
 
-            if (isStoredProcedure)
+
+			if (isStoredProcedure)
             {
                 commandType = CommandType.StoredProcedure;
             }
 
             using (IDbConnection connection = new SqlConnection(connectionString))
             {
-                List<T> rows = connection.Query<T>(sqlStatement, parameters, commandType: commandType).ToList();
+				List<T> rows = connection.Query<T>(sqlStatement, parameters, commandType: commandType).ToList();
                 return rows;
             }
         }

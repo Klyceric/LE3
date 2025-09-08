@@ -1,12 +1,120 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F993205A-9252-4273-A6B5-C4F3FDEDAD39}|BlogTestUI\\BlogTestUI.csproj|c:\\users\\corvi\\source\\repos\\bautistale2\\blogtestui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993205A-9252-4273-A6B5-C4F3FDEDAD39}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993205A-9252-4273-A6B5-C4F3FDEDAD39}|BlogTestUI\\BlogTestUI.csproj|c:\\users\\corvi\\source\\repos\\bautistale2\\blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F993205A-9252-4273-A6B5-C4F3FDEDAD39}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993205A-9252-4273-A6B5-C4F3FDEDAD39}|BlogTestUI\\BlogTestUI.csproj|c:\\users\\corvi\\source\\repos\\bautistale2\\blogtestui\\blogtestui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F993205A-9252-4273-A6B5-C4F3FDEDAD39}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\blogtestui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7F33B6-7C24-4462-83B6-8A6E8D64466A}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\corvi\\source\\repos\\bautistale2\\blogdatalibrary\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7F33B6-7C24-4462-83B6-8A6E8D64466A}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7F33B6-7C24-4462-83B6-8A6E8D64466A}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\corvi\\source\\repos\\bautistale2\\blogdatalibrary\\blogdatalibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB7F33B6-7C24-4462-83B6-8A6E8D64466A}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\blogdatalibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154D2F1D-C242-44CF-A2DD-F0F15A40600B}|BautistaBlogDB\\BautistaBlogDB.sqlproj|C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BautistaBlogDB\\Stored Procedures\\spUsers_Authenticate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{154D2F1D-C242-44CF-A2DD-F0F15A40600B}|BautistaBlogDB\\BautistaBlogDB.sqlproj|solutionrelative:BautistaBlogDB\\Stored Procedures\\spUsers_Authenticate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlData.cs",
+              "DocumentMoniker": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BlogDataLibrary\\Data\\SqlData.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Data\\SqlData.cs",
+              "ToolTip": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BlogDataLibrary\\Data\\SqlData.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Data\\SqlData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:49:51.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "spUsers_Authenticate.sql",
+              "DocumentMoniker": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BautistaBlogDB\\Stored Procedures\\spUsers_Authenticate.sql",
+              "RelativeDocumentMoniker": "BautistaBlogDB\\Stored Procedures\\spUsers_Authenticate.sql",
+              "ToolTip": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BautistaBlogDB\\Stored Procedures\\spUsers_Authenticate.sql\r\n(localdb)\\ProjectModels.BautistaBlogDB_2\r\n(DESKTOP-F19JGA3\\corvi)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-01T09:46:40.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogDataLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\BlogDataLibrary.csproj",
+              "ToolTip": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+              "RelativeToolTip": "BlogDataLibrary\\BlogDataLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-01T09:13:49.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogTestUI.csproj",
+              "DocumentMoniker": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BlogTestUI\\BlogTestUI.csproj",
+              "RelativeDocumentMoniker": "BlogTestUI\\BlogTestUI.csproj",
+              "ToolTip": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BlogTestUI\\BlogTestUI.csproj",
+              "RelativeToolTip": "BlogTestUI\\BlogTestUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-01T09:13:23.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BlogTestUI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogTestUI\\Program.cs",
+              "ToolTip": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BlogTestUI\\Program.cs",
+              "RelativeToolTip": "BlogTestUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:01:12.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BlogTestUI\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogTestUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\corvi\\source\\repos\\BautistaLE2\\BlogTestUI\\appsettings.json",
+              "RelativeToolTip": "BlogTestUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T08:44:46.589Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
